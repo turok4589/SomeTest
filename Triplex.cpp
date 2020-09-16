@@ -2,7 +2,7 @@
 #include <ctime>
 void PrintIntroduction(int Difficulty)
 {
-   std::cout << "\nYou are a secret agent breaking into a level " << Difficulty;
+   std::cout << "\nYou are aa secret agent breaking into a level " << Difficulty;
    std::cout << " secure server room... \nEnter the correct code to continue..." << std::endl;
 }
 bool PlayGame(int Difficulty)
